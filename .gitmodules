@@ -1,0 +1,3 @@
+[submodule "observable"]
+	path = observable
+	url = git@github.com:andimeier-ch/observable.git
